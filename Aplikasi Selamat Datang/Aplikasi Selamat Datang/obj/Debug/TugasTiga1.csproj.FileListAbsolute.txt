@@ -1,0 +1,10 @@
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Aplikasi Selamat Datang\bin\Debug\Aplikasi Selamat Datang.exe.config
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Aplikasi Selamat Datang\bin\Debug\Aplikasi Selamat Datang.exe
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Aplikasi Selamat Datang\bin\Debug\Aplikasi Selamat Datang.pdb
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Aplikasi Selamat Datang\obj\Debug\Aplikasi_Selamat_Datang.frmSelamatDatang.resources
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Aplikasi Selamat Datang\obj\Debug\Aplikasi_Selamat_Datang.Properties.Resources.resources
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Aplikasi Selamat Datang\obj\Debug\TugasTiga1.csproj.GenerateResource.cache
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Aplikasi Selamat Datang\obj\Debug\TugasTiga1.csproj.CoreCompileInputs.cache
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Aplikasi Selamat Datang\obj\Debug\Aplikasi Selamat Datang.exe
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Aplikasi Selamat Datang\obj\Debug\Aplikasi Selamat Datang.pdb
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Aplikasi Selamat Datang\obj\Debug\TugasTiga1.csprojAssemblyReference.cache

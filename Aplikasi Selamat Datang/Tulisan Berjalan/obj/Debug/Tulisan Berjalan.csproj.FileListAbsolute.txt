@@ -1,0 +1,10 @@
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Tulisan Berjalan\bin\Debug\Tulisan Berjalan.exe.config
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Tulisan Berjalan\bin\Debug\Tulisan Berjalan.exe
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Tulisan Berjalan\bin\Debug\Tulisan Berjalan.pdb
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Tulisan Berjalan\obj\Debug\Tulisan Berjalan.csprojAssemblyReference.cache
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Tulisan Berjalan\obj\Debug\Tulisan_Berjalan.frmTulisanBerjalan.resources
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Tulisan Berjalan\obj\Debug\Tulisan_Berjalan.Properties.Resources.resources
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Tulisan Berjalan\obj\Debug\Tulisan Berjalan.csproj.GenerateResource.cache
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Tulisan Berjalan\obj\Debug\Tulisan Berjalan.csproj.CoreCompileInputs.cache
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Tulisan Berjalan\obj\Debug\Tulisan Berjalan.exe
+E:\22.11.4579\Dota 2\Anti-Mage\Aplikasi Selamat Datang\Tulisan Berjalan\obj\Debug\Tulisan Berjalan.pdb
